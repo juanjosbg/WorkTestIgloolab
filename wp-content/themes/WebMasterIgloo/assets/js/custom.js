@@ -1,1 +1,1 @@
-console.log('te amo diana');
+console.log('Prueba conexion con js');

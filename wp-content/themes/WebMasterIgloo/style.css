@@ -32,13 +32,34 @@ a {
     list-style: none;
 }
 
+/* =========================================== */
+/* text and fonts */
+a,h1,h2,h3,h4,
+li,p,span,ul {
+    font-family: 'Montserrat';
+}
 
-p{
+.attachment-large {
+    max-width: 100%;
+    height: auto !important
+}
+
+h1 {
+    margin: 50px 0;
+    font-weight: 900
+}
+
+ul {
+    margin-bottom: 0
+}
+
+p {
     font-size: 18px;
     font-weight: 400;
     line-height: 2vh;
     letter-spacing: 1px;
 }
+
 /* =========================================== */
 /* colors  */
 :root {
@@ -77,6 +98,22 @@ header {
     background-position: initial;
     background-size: cover;
 }
+
+header nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px
+}
+
+header nav li a {
+    color: #fff;
+    text-transform: uppercase
+}
+
+header nav li a:hover {
+    color: #fff
+}
+
 
 .navbar {
     background: rgba(158, 192, 255, 0.25);
@@ -121,8 +158,24 @@ header {
     color: #FF8C32;
 }
 
-.info-parrafo-nav{
+.info-parrafo-nav {
     text-align: left;
     padding: 20px 240px;
     font-weight: bold;
+}
+
+/* =========================================== */
+/* Footer */
+footer {
+    background-color: #1c3643;
+    padding: 10px 0
+}
+
+footer {
+    color: #fff
+}
+
+footer p {
+    margin: 0;
+    color: #fff
 }
