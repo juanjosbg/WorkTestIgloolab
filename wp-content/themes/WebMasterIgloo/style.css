@@ -8,3 +8,36 @@ License: GNU General Public Licence v2 or later
 License: http://www.gnu.org/licenses/gpl-2.0.html
 
 */
+
+
+/* =========================================================== */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+/* =========================================== */
+/* separadores pages */
+
+.slice-lg {
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+
+.slice-mg {
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+}
+
+/* =========================================== */
