@@ -1,0 +1,305 @@
+[INFO]-[2022/08/01 14:14:49] Cloning: 1659363288130's clone job's data is not in database, generating data
+[INFO]-[2022/08/01 14:14:51] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2022/08/01 14:14:51] DB Copy: Table wp_commentmeta contains 0 rows 
+[INFO]-[2022/08/01 14:14:52] DB Copy: Creating table wpstg0_comments
+[INFO]-[2022/08/01 14:14:53] DB Copy: Table wp_comments contains 1 rows 
+[INFO]-[2022/08/01 14:14:53] DB Copy: Copy data from wp_comments to wpstg0_comments - 0 to 10000 records
+[INFO]-[2022/08/01 14:14:54] DB Copy: Creating table wpstg0_e_events
+[INFO]-[2022/08/01 14:14:54] DB Copy: Table wp_e_events contains 0 rows 
+[INFO]-[2022/08/01 14:14:56] DB Copy: Creating table wpstg0_frmt_form_entry
+[INFO]-[2022/08/01 14:14:56] DB Copy: Table wp_frmt_form_entry contains 3 rows 
+[INFO]-[2022/08/01 14:14:56] DB Copy: Copy data from wp_frmt_form_entry to wpstg0_frmt_form_entry - 0 to 10000 records
+[INFO]-[2022/08/01 14:14:58] DB Copy: Creating table wpstg0_frmt_form_entry_meta
+[INFO]-[2022/08/01 14:14:58] DB Copy: Table wp_frmt_form_entry_meta contains 15 rows 
+[INFO]-[2022/08/01 14:14:58] DB Copy: Copy data from wp_frmt_form_entry_meta to wpstg0_frmt_form_entry_meta - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:00] DB Copy: Creating table wpstg0_frmt_form_views
+[INFO]-[2022/08/01 14:15:00] DB Copy: Table wp_frmt_form_views contains 0 rows 
+[INFO]-[2022/08/01 14:15:03] DB Copy: Creating table wpstg0_links
+[INFO]-[2022/08/01 14:15:03] DB Copy: Table wp_links contains 0 rows 
+[INFO]-[2022/08/01 14:15:05] DB Copy: Creating table wpstg0_options
+[INFO]-[2022/08/01 14:15:05] DB Copy: Table wp_options contains 313 rows 
+[INFO]-[2022/08/01 14:15:05] DB Copy: Copy data from wp_options to wpstg0_options - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:07] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2022/08/01 14:15:07] DB Copy: Table wp_postmeta contains 1311 rows 
+[INFO]-[2022/08/01 14:15:07] DB Copy: Copy data from wp_postmeta to wpstg0_postmeta - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:10] DB Copy: Creating table wpstg0_posts
+[INFO]-[2022/08/01 14:15:10] DB Copy: Table wp_posts contains 260 rows 
+[INFO]-[2022/08/01 14:15:10] DB Copy: Copy data from wp_posts to wpstg0_posts - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:12] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2022/08/01 14:15:12] DB Copy: Table wp_term_relationships contains 41 rows 
+[INFO]-[2022/08/01 14:15:12] DB Copy: Copy data from wp_term_relationships to wpstg0_term_relationships - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:14] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2022/08/01 14:15:14] DB Copy: Table wp_term_taxonomy contains 22 rows 
+[INFO]-[2022/08/01 14:15:14] DB Copy: Copy data from wp_term_taxonomy to wpstg0_term_taxonomy - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:17] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2022/08/01 14:15:17] DB Copy: Table wp_termmeta contains 0 rows 
+[INFO]-[2022/08/01 14:15:19] DB Copy: Creating table wpstg0_terms
+[INFO]-[2022/08/01 14:15:19] DB Copy: Table wp_terms contains 22 rows 
+[INFO]-[2022/08/01 14:15:19] DB Copy: Copy data from wp_terms to wpstg0_terms - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:21] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2022/08/01 14:15:21] DB Copy: Table wp_usermeta contains 27 rows 
+[INFO]-[2022/08/01 14:15:21] DB Copy: Copy data from wp_usermeta to wpstg0_usermeta - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:23] DB Copy: Creating table wpstg0_users
+[INFO]-[2022/08/01 14:15:23] DB Copy: Table wp_users contains 1 rows 
+[INFO]-[2022/08/01 14:15:23] DB Copy: Copy data from wp_users to wpstg0_users - 0 to 10000 records
+[INFO]-[2022/08/01 14:15:26] DB Copy: Creating table wpstg0_wpstg_queue
+[INFO]-[2022/08/01 14:15:26] DB Copy: Table wp_wpstg_queue contains 0 rows 
+[INFO]-[2022/08/01 14:15:34] DB Search & Replace:  Table wpstg0_comments 0 to 20000 records
+[INFO]-[2022/08/01 14:15:39] DB Search & Replace:  Table wpstg0_frmt_form_entry 0 to 20000 records
+[INFO]-[2022/08/01 14:15:41] DB Search & Replace:  Table wpstg0_frmt_form_entry_meta 0 to 20000 records
+[INFO]-[2022/08/01 14:15:49] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2022/08/01 14:15:52] DB Search & Replace:  Table wpstg0_options 313 to 20313 records
+[INFO]-[2022/08/01 14:15:54] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2022/08/01 14:15:58] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2022/08/01 14:16:01] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2022/08/01 14:16:03] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2022/08/01 14:16:08] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2022/08/01 14:16:10] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2022/08/01 14:16:12] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2022/08/01 14:16:21] Scanning / for its files
+[INFO]-[2022/08/01 14:16:23] Scanning wp-content/plugins/ and its sub-directories and files
+[INFO]-[2022/08/01 14:16:37] Scanning wp-content/mu-plugins/ and its sub-directories and files
+[INFO]-[2022/08/01 14:16:38] Scanning wp-content/themes/ and its sub-directories and files
+[INFO]-[2022/08/01 14:16:41] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2022/08/01 14:16:43] Scanning wp-content/ for other directories and files
+[INFO]-[2022/08/01 14:16:46] Scanning wp-includes/ for its sub-directories and files
+[INFO]-[2022/08/01 14:16:51] Scanning wp-admin/ for its sub-directories and files
+[INFO]-[2022/08/01 14:16:59] Copying files...
+[INFO]-[2022/08/01 14:17:01] Total 50 files processed
+[INFO]-[2022/08/01 14:17:04] Total 100 files processed
+[INFO]-[2022/08/01 14:17:06] Total 150 files processed
+[INFO]-[2022/08/01 14:17:09] Total 200 files processed
+[INFO]-[2022/08/01 14:17:13] Total 250 files processed
+[INFO]-[2022/08/01 14:17:16] Total 300 files processed
+[INFO]-[2022/08/01 14:17:22] Total 350 files processed
+[INFO]-[2022/08/01 14:17:28] Total 400 files processed
+[INFO]-[2022/08/01 14:17:32] Total 450 files processed
+[INFO]-[2022/08/01 14:17:36] Total 500 files processed
+[INFO]-[2022/08/01 14:17:40] Total 550 files processed
+[INFO]-[2022/08/01 14:17:43] Total 600 files processed
+[INFO]-[2022/08/01 14:17:46] Total 650 files processed
+[INFO]-[2022/08/01 14:17:50] Total 700 files processed
+[INFO]-[2022/08/01 14:17:53] Total 750 files processed
+[INFO]-[2022/08/01 14:17:54] Total 800 files processed
+[INFO]-[2022/08/01 14:17:56] Total 850 files processed
+[INFO]-[2022/08/01 14:17:59] Total 900 files processed
+[INFO]-[2022/08/01 14:18:01] Total 950 files processed
+[INFO]-[2022/08/01 14:18:05] Total 1000 files processed
+[INFO]-[2022/08/01 14:18:10] Total 1050 files processed
+[INFO]-[2022/08/01 14:18:15] Total 1100 files processed
+[INFO]-[2022/08/01 14:18:22] Total 1150 files processed
+[INFO]-[2022/08/01 14:18:34] Total 1200 files processed
+[INFO]-[2022/08/01 14:18:43] Total 1250 files processed
+[INFO]-[2022/08/01 14:18:49] Total 1300 files processed
+[INFO]-[2022/08/01 14:18:54] Total 1350 files processed
+[INFO]-[2022/08/01 14:19:00] Total 1400 files processed
+[INFO]-[2022/08/01 14:19:05] Total 1450 files processed
+[INFO]-[2022/08/01 14:19:13] Total 1500 files processed
+[INFO]-[2022/08/01 14:19:20] Total 1550 files processed
+[INFO]-[2022/08/01 14:19:23] Total 1600 files processed
+[INFO]-[2022/08/01 14:19:25] Total 1650 files processed
+[INFO]-[2022/08/01 14:19:28] Total 1700 files processed
+[INFO]-[2022/08/01 14:19:36] Total 1750 files processed
+[INFO]-[2022/08/01 14:19:49] Total 1800 files processed
+[INFO]-[2022/08/01 14:19:58] Total 1850 files processed
+[INFO]-[2022/08/01 14:20:08] Total 1900 files processed
+[INFO]-[2022/08/01 14:20:22] Total 1950 files processed
+[INFO]-[2022/08/01 14:20:25] Total 2000 files processed
+[INFO]-[2022/08/01 14:20:30] Total 2050 files processed
+[INFO]-[2022/08/01 14:20:32] Total 2100 files processed
+[INFO]-[2022/08/01 14:20:37] Total 2150 files processed
+[INFO]-[2022/08/01 14:20:41] Total 2200 files processed
+[INFO]-[2022/08/01 14:20:46] Total 2250 files processed
+[INFO]-[2022/08/01 14:20:52] Total 2300 files processed
+[INFO]-[2022/08/01 14:20:56] Total 2350 files processed
+[INFO]-[2022/08/01 14:20:59] Total 2400 files processed
+[INFO]-[2022/08/01 14:21:02] Total 2450 files processed
+[INFO]-[2022/08/01 14:21:04] Total 2500 files processed
+[INFO]-[2022/08/01 14:21:09] Total 2550 files processed
+[INFO]-[2022/08/01 14:21:11] Total 2600 files processed
+[INFO]-[2022/08/01 14:21:15] Total 2650 files processed
+[INFO]-[2022/08/01 14:21:20] Total 2700 files processed
+[INFO]-[2022/08/01 14:21:24] Total 2750 files processed
+[INFO]-[2022/08/01 14:21:28] Total 2800 files processed
+[INFO]-[2022/08/01 14:21:31] Total 2850 files processed
+[INFO]-[2022/08/01 14:21:35] Total 2900 files processed
+[INFO]-[2022/08/01 14:21:39] Total 2950 files processed
+[INFO]-[2022/08/01 14:21:44] Total 3000 files processed
+[INFO]-[2022/08/01 14:21:49] Total 3050 files processed
+[INFO]-[2022/08/01 14:21:54] Total 3100 files processed
+[INFO]-[2022/08/01 14:21:58] Total 3150 files processed
+[INFO]-[2022/08/01 14:22:03] Total 3200 files processed
+[INFO]-[2022/08/01 14:22:09] Total 3250 files processed
+[INFO]-[2022/08/01 14:22:14] Total 3300 files processed
+[INFO]-[2022/08/01 14:22:19] Total 3350 files processed
+[INFO]-[2022/08/01 14:22:22] Total 3400 files processed
+[INFO]-[2022/08/01 14:22:25] Total 3450 files processed
+[INFO]-[2022/08/01 14:22:29] Total 3500 files processed
+[INFO]-[2022/08/01 14:22:34] Total 3550 files processed
+[INFO]-[2022/08/01 14:22:39] Total 3600 files processed
+[INFO]-[2022/08/01 14:22:45] Total 3650 files processed
+[INFO]-[2022/08/01 14:22:49] Total 3700 files processed
+[INFO]-[2022/08/01 14:22:54] Total 3750 files processed
+[INFO]-[2022/08/01 14:22:59] Total 3800 files processed
+[INFO]-[2022/08/01 14:23:02] Total 3850 files processed
+[INFO]-[2022/08/01 14:23:08] Total 3900 files processed
+[INFO]-[2022/08/01 14:23:13] Total 3950 files processed
+[INFO]-[2022/08/01 14:23:18] Total 4000 files processed
+[INFO]-[2022/08/01 14:23:23] Total 4050 files processed
+[INFO]-[2022/08/01 14:23:29] Total 4100 files processed
+[INFO]-[2022/08/01 14:23:37] Total 4150 files processed
+[INFO]-[2022/08/01 14:23:45] Total 4200 files processed
+[INFO]-[2022/08/01 14:23:50] Total 4250 files processed
+[INFO]-[2022/08/01 14:23:56] Total 4300 files processed
+[INFO]-[2022/08/01 14:24:04] Total 4350 files processed
+[INFO]-[2022/08/01 14:24:07] Total 4400 files processed
+[INFO]-[2022/08/01 14:24:11] Total 4450 files processed
+[INFO]-[2022/08/01 14:24:16] Total 4500 files processed
+[INFO]-[2022/08/01 14:24:20] Total 4550 files processed
+[INFO]-[2022/08/01 14:24:24] Total 4600 files processed
+[INFO]-[2022/08/01 14:24:29] Total 4650 files processed
+[INFO]-[2022/08/01 14:24:32] Total 4700 files processed
+[INFO]-[2022/08/01 14:24:39] Total 4750 files processed
+[INFO]-[2022/08/01 14:24:44] Total 4800 files processed
+[INFO]-[2022/08/01 14:24:48] Total 4850 files processed
+[INFO]-[2022/08/01 14:24:50] Total 4900 files processed
+[INFO]-[2022/08/01 14:24:53] Total 4950 files processed
+[INFO]-[2022/08/01 14:24:57] Total 5000 files processed
+[INFO]-[2022/08/01 14:25:08] Total 5050 files processed
+[INFO]-[2022/08/01 14:25:14] Total 5100 files processed
+[INFO]-[2022/08/01 14:25:17] Total 5150 files processed
+[INFO]-[2022/08/01 14:25:20] Total 5200 files processed
+[INFO]-[2022/08/01 14:25:25] Total 5250 files processed
+[INFO]-[2022/08/01 14:25:29] Total 5300 files processed
+[INFO]-[2022/08/01 14:25:36] Total 5350 files processed
+[INFO]-[2022/08/01 14:25:40] Total 5400 files processed
+[INFO]-[2022/08/01 14:25:45] Total 5450 files processed
+[INFO]-[2022/08/01 14:25:51] Total 5500 files processed
+[INFO]-[2022/08/01 14:25:57] Total 5550 files processed
+[INFO]-[2022/08/01 14:26:01] Total 5600 files processed
+[INFO]-[2022/08/01 14:26:05] Total 5650 files processed
+[INFO]-[2022/08/01 14:26:10] Total 5700 files processed
+[INFO]-[2022/08/01 14:26:14] Total 5750 files processed
+[INFO]-[2022/08/01 14:26:19] Total 5800 files processed
+[INFO]-[2022/08/01 14:26:23] Total 5850 files processed
+[INFO]-[2022/08/01 14:26:26] Total 5900 files processed
+[INFO]-[2022/08/01 14:26:28] Total 5950 files processed
+[INFO]-[2022/08/01 14:26:30] Total 6000 files processed
+[INFO]-[2022/08/01 14:26:33] Total 6050 files processed
+[INFO]-[2022/08/01 14:26:35] Total 6100 files processed
+[INFO]-[2022/08/01 14:26:38] Total 6150 files processed
+[INFO]-[2022/08/01 14:26:40] Total 6200 files processed
+[INFO]-[2022/08/01 14:26:42] Total 6250 files processed
+[INFO]-[2022/08/01 14:26:44] Total 6300 files processed
+[INFO]-[2022/08/01 14:26:47] Total 6350 files processed
+[INFO]-[2022/08/01 14:26:50] Total 6400 files processed
+[INFO]-[2022/08/01 14:26:52] Total 6450 files processed
+[INFO]-[2022/08/01 14:26:55] Total 6500 files processed
+[INFO]-[2022/08/01 14:26:57] Total 6550 files processed
+[INFO]-[2022/08/01 14:26:59] Total 6600 files processed
+[INFO]-[2022/08/01 14:27:02] Total 6650 files processed
+[INFO]-[2022/08/01 14:27:04] Total 6700 files processed
+[INFO]-[2022/08/01 14:27:07] Total 6750 files processed
+[INFO]-[2022/08/01 14:27:08] Total 6800 files processed
+[INFO]-[2022/08/01 14:27:11] Total 6850 files processed
+[INFO]-[2022/08/01 14:27:13] Total 6900 files processed
+[INFO]-[2022/08/01 14:27:15] Total 6950 files processed
+[INFO]-[2022/08/01 14:27:18] Total 7000 files processed
+[INFO]-[2022/08/01 14:27:20] Total 7050 files processed
+[INFO]-[2022/08/01 14:27:22] Total 7100 files processed
+[INFO]-[2022/08/01 14:27:25] Total 7150 files processed
+[INFO]-[2022/08/01 14:27:27] Total 7200 files processed
+[INFO]-[2022/08/01 14:27:30] Total 7250 files processed
+[INFO]-[2022/08/01 14:27:32] Total 7300 files processed
+[INFO]-[2022/08/01 14:27:34] Total 7350 files processed
+[INFO]-[2022/08/01 14:27:37] Total 7400 files processed
+[INFO]-[2022/08/01 14:27:39] Total 7450 files processed
+[INFO]-[2022/08/01 14:27:41] Total 7500 files processed
+[INFO]-[2022/08/01 14:27:44] Total 7550 files processed
+[INFO]-[2022/08/01 14:27:46] Total 7600 files processed
+[INFO]-[2022/08/01 14:27:49] Total 7650 files processed
+[INFO]-[2022/08/01 14:27:52] Total 7700 files processed
+[INFO]-[2022/08/01 14:27:55] Total 7750 files processed
+[INFO]-[2022/08/01 14:27:57] Total 7800 files processed
+[INFO]-[2022/08/01 14:28:01] Total 7850 files processed
+[INFO]-[2022/08/01 14:28:04] Total 7900 files processed
+[INFO]-[2022/08/01 14:28:07] Total 7950 files processed
+[INFO]-[2022/08/01 14:28:10] Total 8000 files processed
+[INFO]-[2022/08/01 14:28:12] Total 8050 files processed
+[INFO]-[2022/08/01 14:28:15] Total 8100 files processed
+[INFO]-[2022/08/01 14:28:18] Total 8150 files processed
+[INFO]-[2022/08/01 14:28:21] Total 8200 files processed
+[INFO]-[2022/08/01 14:28:24] Total 8250 files processed
+[INFO]-[2022/08/01 14:28:27] Total 8300 files processed
+[INFO]-[2022/08/01 14:28:30] Total 8350 files processed
+[INFO]-[2022/08/01 14:28:33] Total 8400 files processed
+[INFO]-[2022/08/01 14:28:36] Total 8450 files processed
+[INFO]-[2022/08/01 14:28:39] Total 8500 files processed
+[INFO]-[2022/08/01 14:28:43] Total 8550 files processed
+[INFO]-[2022/08/01 14:28:46] Total 8600 files processed
+[INFO]-[2022/08/01 14:28:50] Total 8650 files processed
+[INFO]-[2022/08/01 14:28:54] Total 8700 files processed
+[INFO]-[2022/08/01 14:28:57] Total 8750 files processed
+[INFO]-[2022/08/01 14:29:00] Total 8800 files processed
+[INFO]-[2022/08/01 14:29:03] Total 8850 files processed
+[INFO]-[2022/08/01 14:29:07] Total 8900 files processed
+[INFO]-[2022/08/01 14:29:10] Total 8950 files processed
+[INFO]-[2022/08/01 14:29:14] Total 9000 files processed
+[INFO]-[2022/08/01 14:29:17] Total 9050 files processed
+[INFO]-[2022/08/01 14:29:20] Total 9100 files processed
+[INFO]-[2022/08/01 14:29:24] Total 9150 files processed
+[INFO]-[2022/08/01 14:29:29] Total 9200 files processed
+[INFO]-[2022/08/01 14:29:34] Total 9250 files processed
+[INFO]-[2022/08/01 14:29:38] Total 9300 files processed
+[INFO]-[2022/08/01 14:29:41] Total 9350 files processed
+[INFO]-[2022/08/01 14:29:48] Total 9400 files processed
+[INFO]-[2022/08/01 14:29:57] Total 9450 files processed
+[INFO]-[2022/08/01 14:30:03] Total 9500 files processed
+[INFO]-[2022/08/01 14:30:08] Total 9550 files processed
+[INFO]-[2022/08/01 14:30:13] Total 9600 files processed
+[INFO]-[2022/08/01 14:30:19] Total 9650 files processed
+[INFO]-[2022/08/01 14:30:24] Total 9700 files processed
+[INFO]-[2022/08/01 14:30:28] Total 9750 files processed
+[INFO]-[2022/08/01 14:30:34] Total 9800 files processed
+[INFO]-[2022/08/01 14:30:38] Total 9850 files processed
+[INFO]-[2022/08/01 14:30:42] Total 9900 files processed
+[INFO]-[2022/08/01 14:30:45] Total 9950 files processed
+[INFO]-[2022/08/01 14:30:51] Total 10000 files processed
+[INFO]-[2022/08/01 14:30:54] Total 10050 files processed
+[INFO]-[2022/08/01 14:30:59] Total 10100 files processed
+[INFO]-[2022/08/01 14:31:05] Total 10150 files processed
+[INFO]-[2022/08/01 14:31:08] Total 10200 files processed
+[INFO]-[2022/08/01 14:31:12] Total 10250 files processed
+[INFO]-[2022/08/01 14:31:15] Total 10300 files processed
+[INFO]-[2022/08/01 14:31:22] Total 10350 files processed
+[INFO]-[2022/08/01 14:31:24] Total 10400 files processed
+[INFO]-[2022/08/01 14:31:29] Total 10450 files processed
+[INFO]-[2022/08/01 14:31:35] Total 10500 files processed
+[INFO]-[2022/08/01 14:31:40] Total 10550 files processed
+[INFO]-[2022/08/01 14:31:45] Total 10600 files processed
+[INFO]-[2022/08/01 14:31:51] Total 10650 files processed
+[INFO]-[2022/08/01 14:32:01] Total 10700 files processed
+[INFO]-[2022/08/01 14:32:10] Skipped symlinking Wp Uploads Folder
+[INFO]-[2022/08/01 14:32:10] Copying files finished
+[INFO]-[2022/08/01 14:32:11] DB Data Step 0: Copy wp-config.php file
+[INFO]-[2022/08/01 14:32:11] DB Data Step 0: Skipping: wp-config.php already exists in C:\xampp\htdocs\PruebaIgloo\final-testweb-ig/wp-config.php
+[INFO]-[2022/08/01 14:32:12] DB Data Step 1: Updating siteurl and homeurl in wpstg0_options to http://localhost/PruebaIgloo/final-testweb-ig
+[INFO]-[2022/08/01 14:32:15] DB Data Step 3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2022/08/01 14:32:18] DB Data Step 4: Updating table_prefix in C:\xampp\htdocs\PruebaIgloo\final-testweb-ig/wp-config.php to wpstg0_
+[INFO]-[2022/08/01 14:32:20] DB Data Step 5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2022/08/01 14:32:22] DB Data Step 6: Updating db prefix in wpstg0_options.
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Updating constants in wp-config.php
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:UPLOADS
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_PLUGIN_DIR
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_PLUGIN_URL
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_LANG_DIR
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_HOME
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_SITEURL
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_CACHE
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Added:WP_ENVIRONMENT_TYPE
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2022/08/01 14:32:24] DB Data Step 7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2022/08/01 14:32:29] Finish: Deleting clone job's cache files...
+[INFO]-[2022/08/01 14:32:29] Finish: Clone job's cache files have been deleted!
+[INFO]-[2022/08/01 14:32:29] Finish: Verifying existing clones...
+[INFO]-[2022/08/01 14:32:29] Finish: The job finished!
